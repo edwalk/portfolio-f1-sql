@@ -30,7 +30,7 @@ Before being able to query the database using SQL, the following steps had to be
 * Which 10 drivers have participated in most Grand Prix races without winning? ([top-10-participants-without-wins.txt](https://github.com/edwalk/portfolio-f1-sql/blob/main/queries/queries_output/top-10-participants-without-wins.txt))
 * Who are the Top 10 Grand Prix drivers with the best win ratio? ([top-10-win-ratio.txt](https://github.com/edwalk/portfolio-f1-sql/blob/main/queries/queries_output/top-10-win-ratio.txt))
 
-#Constructors  | Queries:  
+# Constructors  | Queries:  
 * Which 10 constructors have the most race participations?
 * Which 10 constructors have the most race wins?
 * Which 10 constructors have the best win ratio?

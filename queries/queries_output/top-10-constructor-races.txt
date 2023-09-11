@@ -1,0 +1,12 @@
+ constructor | races
+-------------+-------
+ Ferrari     |  1058
+ McLaren     |   887
+ Williams    |   801
+ Tyrrell     |   433
+ Renault     |   403
+ Team Lotus  |   395
+ Sauber      |   395
+ Red Bull    |   352
+ Minardi     |   345
+ Ligier      |   330

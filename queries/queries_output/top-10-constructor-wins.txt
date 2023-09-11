@@ -1,0 +1,12 @@
+ constructor | wins
+-------------+------
+ Ferrari     |  243
+ McLaren     |  179
+ Mercedes    |  125
+ Williams    |  114
+ Red Bull    |   96
+ Team Lotus  |   45
+ Renault     |   35
+ Benetton    |   27
+ Tyrrell     |   23
+ Brabham     |   23

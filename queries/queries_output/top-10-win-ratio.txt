@@ -1,0 +1,12 @@
+ forename |  surname   | win_ratio | race_count | race_wins
+----------+------------+-----------+------------+-----------
+ Lee      | Wallard    |      0.50 |          2 |         1
+ Juan     | Fangio     |      0.41 |         58 |        24
+ Bill     | Vukovich   |      0.40 |          5 |         2
+ Alberto  | Ascari     |      0.36 |         36 |        13
+ Jim      | Clark      |      0.34 |         73 |        25
+ Lewis    | Hamilton   |      0.33 |        314 |       103
+ Michael  | Schumacher |      0.30 |        308 |        91
+ Jackie   | Stewart    |      0.27 |        100 |        27
+ Alain    | Prost      |      0.25 |        202 |        51
+ Ayrton   | Senna      |      0.25 |        162 |        41

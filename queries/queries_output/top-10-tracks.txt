@@ -1,0 +1,12 @@
+           circuit            | race_count
+------------------------------+------------
+ Autodromo Nazionale di Monza |         73
+ Circuit de Monaco            |         69
+ Silverstone Circuit          |         58
+ Circuit de Spa-Francorchamps |         56
+ Circuit Gilles Villeneuve    |         42
+ Nurburgring                  |         41
+ Autodromo Jose Carlos Pace   |         40
+ Hungaroring                  |         38
+ Hockenheimring               |         37
+ Red Bull Ring                |         37

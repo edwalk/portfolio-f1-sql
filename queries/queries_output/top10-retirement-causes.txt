@@ -1,0 +1,12 @@
+    status    | count
+--------------+-------
+ Engine       |  2014
+ Accident     |  1047
+ Collision    |   838
+ Gearbox      |   805
+ Spun off     |   792
+ Suspension   |   431
+ Transmission |   321
+ Electrical   |   316
+ Brakes       |   251
+ Clutch       |   214

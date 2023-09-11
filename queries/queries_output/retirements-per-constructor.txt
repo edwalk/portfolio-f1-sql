@@ -1,0 +1,12 @@
+ constructor | retirements | race_participations
+-------------+-------------+---------------------
+ Ferrari     |         707 |                2355
+ McLaren     |         562 |                1839
+ Williams    |         475 |                1593
+ Team Lotus  |         423 |                 871
+ Tyrrell     |         409 |                 881
+ Minardi     |         354 |                 672
+ Brabham     |         334 |                 662
+ Ligier      |         290 |                 611
+ Arrows      |         286 |                 590
+ BRM         |         273 |                 562

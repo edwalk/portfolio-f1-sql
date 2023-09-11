@@ -1,0 +1,12 @@
+ forename  |  surname   | wins
+-----------+------------+------
+ Lewis     | Hamilton   |  103
+ Michael   | Schumacher |   91
+ Sebastian | Vettel     |   53
+ Alain     | Prost      |   51
+ Ayrton    | Senna      |   41
+ Max       | Verstappen |   37
+ Fernando  | Alonso     |   32
+ Nigel     | Mansell    |   31
+ Jackie    | Stewart    |   27
+ Jim       | Clark      |   25

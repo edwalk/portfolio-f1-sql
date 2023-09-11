@@ -1,0 +1,37 @@
+    country    | race_count
+---------------+------------
+ Italy         |        106
+ Germany       |         79
+ UK            |         78
+ USA           |         75
+ Monaco        |         69
+ Belgium       |         68
+ France        |         63
+ Spain         |         60
+ Canada        |         52
+ Brazil        |         50
+ Japan         |         39
+ Hungary       |         38
+ Austria       |         38
+ Australia     |         37
+ Netherlands   |         33
+ South Africa  |         23
+ Mexico        |         23
+ Bahrain       |         20
+ Argentina     |         20
+ Malaysia      |         19
+ Portugal      |         18
+ China         |         16
+ UAE           |         15
+ Singapore     |         14
+ Turkey        |          9
+ Russia        |          8
+ Azerbaijan    |          7
+ Sweden        |          6
+ Switzerland   |          5
+ Korea         |          4
+ India         |          3
+ Saudi Arabia  |          3
+ Qatar         |          2
+ Morocco       |          1
+ United States |          1

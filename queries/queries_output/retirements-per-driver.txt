@@ -1,0 +1,12 @@
+ first_name |  last_name  | retirements | race_participations
+------------+-------------+-------------+---------------------
+ Andrea     | de Cesaris  |         147 |                 214
+ Riccardo   | Patrese     |         145 |                 257
+ Michele    | Alboreto    |         103 |                 215
+ Rubens     | Barrichello |         102 |                 326
+ Nigel      | Mansell     |          98 |                 192
+ Gerhard    | Berger      |          95 |                 210
+ Jarno      | Trulli      |          93 |                 256
+ Jacques    | Laffite     |          91 |                 180
+ Nelson     | Piquet      |          89 |                 207
+ Jean       | Alesi       |          87 |                 202
